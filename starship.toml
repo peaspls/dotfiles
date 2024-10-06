@@ -1,0 +1,53 @@
+[character]
+success_symbol = '[\$](bold green)'
+error_symbol = '[\$](bold red)'
+
+[username]
+style_user = 'white'
+style_root = 'white'
+format = '[$user]($style)'
+disabled = false
+show_always = true
+
+[hostname]
+ssh_only = false
+format = '[@](white)[$hostname](white) '
+disabled = false
+
+[directory]
+truncation_length = 1
+truncation_symbol = '…/'
+truncate_to_repo = false
+style = '#00a5ff bold'
+format = '󰝰 [$path]($style) '
+
+[git_branch]
+symbol = ""
+format = '$symbol '
+
+# ~/.config/starship.toml
+
+[git_status]
+conflicted = 'conflicted'
+ahead = 'ahead'
+behind = 'behind'
+diverged = 'diverged'
+up_to_date = ''
+untracked = 'untracked'
+stashed = 'stashed'
+modified = 'modified'
+staged = '[++\($count\)](green)'
+renamed = 'renamed'
+deleted = 'deleted'
+
+[package]
+disabled = true
+
+[nodejs]
+disabled = true
+
+[aws]
+disabled = true
+
+[gcloud]
+disabled = true 
