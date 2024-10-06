@@ -1,3 +1,5 @@
+# path: .config/starship.toml
+
 palette = "catppuccin_macchiato"
 
 [character]
