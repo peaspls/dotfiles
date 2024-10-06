@@ -1,4 +1,4 @@
-# Apps
+# App Configurations
 
-* Cross-shell prompt [Starship](https://starship.rs/).
-* Hyperextensible Vim-based text editor [Neovim](https://neovim.io/).
+* startship.toml - Cross-shell prompt [Starship](https://starship.rs/).
+* init.vim - Hyperextensible Vim-based text editor [Neovim](https://neovim.io/).
