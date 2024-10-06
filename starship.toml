@@ -1,4 +1,4 @@
-# path: .config/starship.toml
+# path: ~/.config/starship.toml
 
 palette = "catppuccin_macchiato"
 
