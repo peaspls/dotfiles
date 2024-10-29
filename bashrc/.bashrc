@@ -92,6 +92,11 @@ fi
 #alias la='ls -A'
 #alias l='ls -CF'
 
+# Aliases
+alias vim="nvim"
+alias vi="nvim"
+alias oldvim="vim"
+
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
