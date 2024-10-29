@@ -14,7 +14,3 @@ stow starship
 
 This will create a symlink: ~./config/starship.toml pointing to: ~/dotfiles/starship/.config/starship.toml
 
-The dotfiles in this repository are:
-
-* Starship - Cross-shell prompt [Starship](https://starship.rs/).
-* Nvim - Hyperextensible Vim-based text editor [Neovim](https://neovim.io/).
