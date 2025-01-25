@@ -1,11 +1,11 @@
 # App Configurations
 
-If you want to use GNU Stow to manage your dotfiles then if you are on a Debian based system, install GNU Stow like this:
+If you want to use GNU Stow to manage your dotfiles then if you are on a Debian based system, install GNU Stow:
 ```
 sudo apt install stow
 ```
 
-Now, clone this repository at your home folder to have the dotfiles be located in the ~/dotfiles directory. 
+Then clone this repository into **~/** to have the dotfiles be located in the ~/dotfiles directory. 
 
 To install the starship files:
 ```
